@@ -1,6 +1,6 @@
 # What is Runboard?
 
-Runboard is a web app that lets you drag & drop your way to a beautiful and performant website without knowing how to write code. 
+Runboard is a web app that lets you drag & drop your way to a beautiful and performant website without writing code.
 
 ## Cool... another drag & drop editor. But, why?
 
